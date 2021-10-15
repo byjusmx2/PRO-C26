@@ -1,2 +1,2 @@
-# PRO-C26-Reference
-reference code for c26
+# PRO-C26-referencia
+Código de referencia para c26
